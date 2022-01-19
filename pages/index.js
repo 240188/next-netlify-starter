@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Velkommen til Kaldestad traffikk" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Her vil det komme mer info etter kvart<code>...</code>
         </p>
       </main>
 
